@@ -348,15 +348,9 @@ MIT License - See LICENSE file for details
 - Kaggle Community - Dataset provision
 - Open-source contributors - Python libraries
 
----
-
-## 📧 Contact
-
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub](https://github.com/yourusername)
 
 ---
 
 **⭐ If you find this project helpful, please give it a star!**
 >>>>>>> 2ed1b54fa11b1ab4d0dffbf9c98dcfb06e48cd63
+
